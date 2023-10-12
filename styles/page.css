@@ -7,7 +7,8 @@
 
 /* General */
 .page {
-    background-color: #17181F;
+    /* background-color: #17181F; */
+    background: linear-gradient(to bottom, #17181F, #20212b);
     background-repeat: no-repeat;
     background-size: cover;
     color: #fff;
